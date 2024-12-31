@@ -28,7 +28,7 @@ STATICFILES_DIRS = [BASE_DIR / 'static']
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['alertgater.t21.uk', '127.0.0.1', '127.0.0.1:8000']
+ALLOWED_HOSTS = ['alertgater.t21.uk', 'explose.info', '82.34.165.255', '127.0.0.1', '127.0.0.1:8000']
 
 
 # Application definition
